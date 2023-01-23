@@ -1,6 +1,4 @@
 //
-// EA Studio Expert Advisor
-//
 // Created with: Joao Marcilio
 // Website: https://self-fx.blogspot.com/
 //
@@ -528,5 +526,5 @@ ENUM_INIT_RETCODE ValidateInit()
    return INIT_SUCCEEDED;
   }
 //+------------------------------------------------------------------+
-/*STRATEGY MARKET Premium Data; XAUUSD; H1 */
-/*STRATEGY CODE {"properties":{"entryLots":0.01,"tradeDirectionMode":0,"oppositeEntrySignal":0,"stopLoss":100,"takeProfit":100,"useStopLoss":false,"useTakeProfit":false,"isTrailingStop":false},"openFilters":[{"name":"MACD","listIndexes":[2,3,0,0,0],"numValues":[3,31,9,0,0,0]},{"name":"MACD","listIndexes":[4,3,0,0,0],"numValues":[12,5,9,0,0,0]}],"closeFilters":[{"name":"Exit Time","listIndexes":[0,0,0,0,0],"numValues":[2,0,18,59,0,0]}]} */
+//
+//
